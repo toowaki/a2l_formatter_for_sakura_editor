@@ -1,4 +1,4 @@
-# A2Lファイル用フォーマッター「a2l_formatter_for_sakura_editor.js」
+# A2Lファイル用フォーマッター　a2l_formatter_for_sakura_editor.js
 ## 本ファイルの説明
 本ファイルはSakura Editor(サクラエディタ)上で使用するA2Lファイル用のコード整形マクロです。
 本ファイルを用いることでA2Lファイルのインデントとコメントの整形を行うことができます。
