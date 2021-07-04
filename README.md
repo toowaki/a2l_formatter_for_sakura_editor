@@ -1,0 +1,2 @@
+# a2l_formatter_for_sakura_editor
+SAKURA Editorで使用するA2Lファイル用のフォーマッタ(整形マクロ)です
