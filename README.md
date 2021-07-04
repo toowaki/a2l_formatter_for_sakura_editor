@@ -1,4 +1,4 @@
-# A2Lファイル用フォーマッター　a2l formatter for sakura editor
+# サクラエディタ向けA2Lファイル整形マクロ　a2l formatter for sakura editor
 ## 本ファイルの説明
 本ファイルはSakura Editor(サクラエディタ)で使用するA2Lファイル用のコード整形マクロです。
 本ファイルを用いることでA2Lファイルのインデントとコメントの整形を行うことができます。
