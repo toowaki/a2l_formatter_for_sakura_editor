@@ -10,20 +10,21 @@
 A2Lファイルの色付けは用意しておりません。C言語用等の色定義を設定ください。
 
 ## ユーザ設定
-本ファイルはJScriptを用いてい記載されています。
+本ファイルはJScriptで記載しています。
 本ファイル内にユーザ設定用の変数を用意していますのでテキストエディタで開いてインデントの文字列などを調整してください。
 
 【サクラエディタでキーマクロやjsマクロを新規作成する方法とその使い方】
 
-https://qiita.com/t_o01/items/6ad844ab04fc0170b4eb
+ https://qiita.com/t_o01/items/6ad844ab04fc0170b4eb
 
 【サクラエディタでお手軽プログラミング！強調キーワードで色分けを設定しよう】
-https://proengineer.internous.co.jp/content/columnfeature/5406
+ https://proengineer.internous.co.jp/content/columnfeature/5406
 
 
 ## その他：A2Lファイルとは
 A2Lファイルについては、ASAMのホームページ等を御覧ください。　
+
 【ASAM MCD-2 MC】
-https://www.asam.net/standards/detail/mcd-2-mc/
+ https://www.asam.net/standards/detail/mcd-2-mc/
 
 #### Keyword: フォーマッタ , Formatter , A2L , ASAP2 , ASAM
