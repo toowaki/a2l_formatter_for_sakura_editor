@@ -25,4 +25,7 @@ A2Lファイルについては、ASAMのホームページ等を御覧くださ�
 【ASAM MCD-2 MC】
  https://www.asam.net/standards/detail/mcd-2-mc/
 
-#### Keyword: フォーマッタ , Formatter , format , A2L , ASAP2 , ASAM , ASAM MCD-2 MC , Sakura editor , サクラエディタ , マクロ
+【ASAM MCD-2 MC 日本語訳】
+ https://www.asam.net/index.php?eID=dumpFile&t=f&f=735&token=e7d4a57e9987fc456a76b815ac0f5ba7a91fd82e
+
+#### Keyword: フォーマッタ , Formatter , format , A2L , ASAP2 , ASAM MCD-2 MC , Sakura editor , サクラエディタ , マクロ , Jscript , コード整形
